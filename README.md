@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=August-kinglo&label=Profile%20views&color=0e75b6&style=flat" alt="August-kinglo" /> </p>
 
-- 🔭 I’m currently a PhD Student
+- 🔭 I’m currently a PhD Student at University of Montpellier / French Research institute for development / Institute 2iE
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
