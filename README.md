@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm August KINGLO </h1>
-<h3 align="center">Data science holds the key for SDGs 6 achievements, so let dive deep into it.</h3>
+<h3 align="center">Data science holds the key for SDGs 6 achievements (Water for all) , so let dive deep into it.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=August-kinglo&label=Profile%20views&color=0e75b6&style=flat" alt="August-kinglo" /> </p>
 
